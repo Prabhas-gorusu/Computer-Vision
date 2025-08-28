@@ -1,4 +1,4 @@
-🖐️ Hand Gesture Controlled Calculator
+###🖐️ Hand Gesture Controlled Calculator
 
 A virtual calculator controlled using hand gestures via a webcam, built with OpenCV and MediaPipe.
 This project allows you to perform basic arithmetic operations (+, -, *, /) by pinching your thumb and index finger over calculator buttons displayed on the screen.
