@@ -49,6 +49,7 @@ Hand-Calculator/
 1. Clone the repository
 
 git clone https://github.com/prabhas-gorusu/Computer-Vision.git
+
 cd Computer-Vision
 
 2. Install dependencies
