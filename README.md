@@ -79,10 +79,7 @@ Exit → Press q or Esc.
 
 📸 Demo (Concept)
 
-> (Replace this with your screenshot or demo GIF)
-
-
-
+<img width="733" height="408" alt="image" src="https://github.com/user-attachments/assets/7933da5e-d0dd-4535-9194-4323d7a0197b" />
 
 
 
